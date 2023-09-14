@@ -1,0 +1,22 @@
+# Node.js and TypeScript
+node_modules/
+dist/
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swn
+.DS_Store
+
+# Environment files
+.env
+.env.dev
+.env.prod
+
+# Log files
+*.log
